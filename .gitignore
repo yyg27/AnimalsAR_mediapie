@@ -5,3 +5,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+*.pidb
+*.unityproj
+*.sln
+*.suo
