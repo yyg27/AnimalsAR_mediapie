@@ -38,10 +38,10 @@ source venv/bin/activate
 
 ```
 
-### 4. Install MediaPipe and OpenCV
+### 4. Install MediaPipe and OpenCV 
 
 ```bash
-pip install mediapipe==0.10.31 opencv-python
+pip install -r requirements.txt
 
 ```
 
